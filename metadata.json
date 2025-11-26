@@ -1,0 +1,5 @@
+{
+  "name": "KOF: Gemini Arena",
+  "description": "A retro-style arcade fighting game with AI-generated commentary using the Gemini API.",
+  "requestFramePermissions": []
+}
